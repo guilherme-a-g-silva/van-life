@@ -26,7 +26,10 @@ It demonstrates how to build a modern React application with authentication, pro
 
 👉 [**View it live on Vercel**](https://van-life-cyan.vercel.app)
 
-(Replace the link above with your actual Vercel deployment link.)
+## Host Credentials
+
+👉 b@b.com
+👉 p123
 
 ---
 
